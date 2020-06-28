@@ -73,7 +73,7 @@ tiles:
   tags: ["community", "shopping"]
 -
   name: "Experimente Liste"
-  url: "https://gist.github.com/1maetsch/3e3f6b36f9a876bab4b39dbb287e6df5"
+  url: "https://minkorrekt-fakts.github.io/experimente/"
   bg_color: "#50b97b"
   txt_color: "#f1f1f1"
   tags: ["community"]
