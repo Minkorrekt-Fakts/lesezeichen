@@ -2,10 +2,13 @@
 
 This page will be automatically generated with Hugo.
 
-
-## How to Contribute
+# How to Contribute
 
 The following steps make it easy to contribute to this Repository. 
+
+## Lesezeichen Hinzufügen
+
+Um ein Lesezeichen Hinzuzufügen musst du einen Eintrag in ``data/links.yml`` machen.
 
 ### Step 1
 
