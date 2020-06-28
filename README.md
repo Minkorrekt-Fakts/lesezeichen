@@ -10,11 +10,11 @@ The following steps make it easy to contribute to this Repository.
 
 Um ein Lesezeichen Hinzuzufügen musst du einen Eintrag in ``data/links.yml`` machen.
 
-### Step 1
+## Step 1
 
 Install the extended version of [hugo](https://gohugo.io/getting-started/installing/) there is a binary file for all the popular distributions like Windows, Mac and off course Linux!. 
 
-### Step 2 
+## Step 2 
 
 Then clone the source branch from this repository to your local device
 
