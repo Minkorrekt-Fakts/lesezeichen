@@ -3,7 +3,7 @@ languageCode = "de-DE"
 title = "Minkorrekt Linksammlung"
 theme = "slate"
 
-publishDir = "docs"
+#publishDir = "docs"
 
 [ params ]
 Favicon = "favicon.ico"
