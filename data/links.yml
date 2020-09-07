@@ -80,8 +80,14 @@ tiles:
 -
   name: "Bovis Calculator"
   url: "https://stevetec.de/bovis/calc.html"
-  #img: "logos/bing.svg"
   txt_color: "#ffffff"
   bg_color: "#ffb900"
   tags: ["schwurbel", "community"]
+-
+  name: "Telegram"
+  url: "https://t.me/minverschgr"
+  img: "logos/telegram.png"
+  txt_color: "#ffffff"
+  bg_color: "#f1f1f1"
+  tags: ["community"]
 
