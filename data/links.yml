@@ -83,7 +83,7 @@ tiles:
   txt_color: "#ffffff"
   bg_color: "#ffb900"
   tags: ["schwurbel", "community"]
-
+-
   name: "Telegram"
   url: "https://t.me/minverschgr"
   img: "logos/telegram.png"
